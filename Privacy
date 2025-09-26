@@ -1,0 +1,20 @@
+# Startronic Poker - Data Deletion Request
+
+To request the deletion of your player account and all associated data, please follow the instructions below.
+
+## How to Request Deletion
+
+Please send an email to the following address:Moratixevents@gmail.com
+
+In your email, please include the following information so we can identify your account:
+
+*   **Your Player UID:** If you can find it in the game's settings screen, this is the fastest way for us to locate your data.
+*   **Approximate Date of Last Play:** If you do not know your UID, please provide the approximate date you last played the game.
+
+## What Happens Next
+
+Once we receive your request, we will locate your account data (Player UID, wallet credits, bonus claim time) and permanently delete it from our Firebase database.
+
+We will confirm via email once the deletion is complete. Please allow up to 14 days for the process to be completed.
+
+Thank you for playing Startronic Poker.
